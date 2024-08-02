@@ -1,4 +1,4 @@
-# News Page
+# [GlobalNewsHub]()
 
 ## Overview
 
@@ -25,7 +25,7 @@ Welcome to the News Page project built with React. This application provides a d
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/news-page.git
+   git clone https://github.com/atanushil/GlobalNewsHub.git
    cd news-page
    ```
 
