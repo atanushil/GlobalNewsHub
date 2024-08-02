@@ -6,11 +6,11 @@ Welcome to the News Page project built with React. This application provides a d
 
 ### Desktop Mode
 
-![Desktop Mode](path/desktop-screenshot.png)
+![Desktop Mode](public/desktopmode.png)
 
 ### Mobile Mode
 
-![Mobile Mode](path/mobile-screenshot.png)
+![Mobile Mode](public/mobilemode.png)
 
 ## Features
 
