@@ -26,7 +26,7 @@ Welcome to the News Page project built with React. This application provides a d
 
    ```bash
    git clone https://github.com/atanushil/GlobalNewsHub.git
-   cd news-page
+   cd GlobalNewsHub
    ```
 
 2. **Install Dependencies**
